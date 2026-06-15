@@ -1,0 +1,2 @@
+# Big sister is a web application that connects teenager girls with academics and financial resources, sexual discussion space with doctors, counsellors and vocational skills.
+# It is to reduce stigma, improve academic and financial support, provide health guidance and gradually reduce the rates of teenage pregnancy
