@@ -65,7 +65,6 @@ Response:
 >>>>>>> c0e1b315a3049c056a33a2e3d8b5a2c1090760a2
 # Big sister helps teenage girls
 # Members 
-<<<<<<< HEAD
 - Jordan Kirumira
 - Erisa Emmanuel
 - Victoria Marvis
