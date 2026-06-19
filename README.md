@@ -68,3 +68,8 @@ Response:
 - Jordan Kirumira
 - Erisa Emmanuel
 - Victoria Marvis
+# Connecting the backend to the database
+The database of choice was MariaDB so the installer is downloaded from https://mariadb.org/download/?t=mariadb&p=mariadb&r=12.3.2&os=windows&cpu=x86_64&pkg=msi&mirror=liquidtelecom and run the insatller
+- During the installation, use a desired root password and dont forget it, leave the port to 3306 and finish the install.
+
+- Run

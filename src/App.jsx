@@ -982,7 +982,7 @@ export default function App() {
 
       <header style={styles.navbar}>
         <div style={styles.navBrandGroup}>
-          <BrandLogo onClick={() => setCurrentView('dashboard')} />
+          <BrandLogo onClick={() => setCurrentView(currentUser ? 'dashboard' : 'landing')} />
           <nav>
             <span style={styles.navLinkItem} onClick={() => { setCurrentView(currentUser ? 'dashboard' : 'landing'); openCounsellorHub(); }}>Home</span>
             <span style={styles.navLinkItem} onClick={() => setCurrentView('about')}>About</span>
